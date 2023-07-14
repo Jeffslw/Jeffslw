@@ -4,7 +4,6 @@ Hi, I'm Jeff 👋
 
 I'm currently a fourth year computer science student at York University! 
 I'm interested in game development. I have coding experience in Java, Html, Css, C, and C++. 
-I'm currently learning python.
 
 <h2>
 📫 How to reach me
